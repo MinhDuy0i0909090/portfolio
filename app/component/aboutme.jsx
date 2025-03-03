@@ -33,20 +33,17 @@ function AboutMe() {
               functionality, and efficiency.
             </p>
             <p className="mt-2 font-Ovo text-gray-600 leading-relaxed">
-              I thrive on problem-solving, innovation, and continuous learning,
-              constantly pushing myself to improve and adapt in the
-              ever-evolving world of technology. My passion lies in transforming
-              ideas into intuitive digital solutions, ensuring that every
-              project I contribute to enhances user interaction and engagement.
-              I believe that success in tech comes from dedication, persistence,
-              and an unyielding drive to learn and grow.
+              I enjoy solving problems, learning new technologies, and
+              constantly improving my skills. My passion is turning ideas into
+              real, easy-to-use digital solutions that enhance user interaction
+              and experience. I believe that success in tech comes from hard
+              work, persistence, and a willingness to learn and grow.
             </p>
             <p className="mt-2 font-Ovo text-gray-600 leading-relaxed">
-              Beyond coding, I am deeply invested in collaboration and teamwork,
-              as I believe the best solutions emerge from diverse perspectives
-              and shared knowledge. My goal is to contribute to forward-thinking
-              teams, tackle complex challenges, and develop impactful software
-              that makes a real difference.
+              I work best in team environments where I can collaborate, share
+              knowledge, and build amazing products. My goal is to join
+              innovative teams, take on challenges, and create impactful
+              software that makes a real difference.
             </p>
             <p className="mt-2 font-Ovo text-gray-600 leading-relaxed">
               {" "}
