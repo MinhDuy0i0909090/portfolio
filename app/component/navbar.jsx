@@ -24,7 +24,6 @@ function Navbar() {
     });
   }, []);
 
-
   return (
     <>
       <div className="fixed top-0 right-0 w-11/12 -z-20 translate-y-[-65%]">
@@ -75,11 +74,11 @@ function Navbar() {
           </li>
         </ul>
         <div className="flex items-center gap-3">
-          {/* <button>
-            <Moon size={28} strokeWidth={1} />
-          </button> */}
+         
           <a
             href="https://www.linkedin.com/in/nldm/"
+            target="_blank"
+            rel="noopener noreferrer"
             className={`hidden md:flex items-center gap-3 px-7 py-2.5 ml-4  border border-gray-500 rounded-full `}
           >
             <span className="font-Ovo">Connect</span> <MoveUpRight size={17} />
@@ -98,23 +97,23 @@ function Navbar() {
             </a>
           </li>
           <li>
-            <a href="#top" className="font-Ovo">
-              About me
+            <a href="#introduction" className="font-Ovo">
+              Introduction
             </a>
           </li>
           <li>
-            <a href="#top" className="font-Ovo">
-              Service
+            <a href="#skill" className="font-Ovo">
+              Skill
             </a>
           </li>
           <li>
-            <a href="#top" className="font-Ovo">
-              My Work
+            <a href="#experience" className="font-Ovo">
+              Experience
             </a>
           </li>
           <li>
-            <a href="#top" className="font-Ovo">
-              Contact Me{" "}
+            <a href="#project" className="font-Ovo">
+              Project
             </a>
           </li>
         </ul>

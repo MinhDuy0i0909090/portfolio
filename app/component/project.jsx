@@ -47,6 +47,8 @@ function Project() {
               <div className="flex flex-wrap gap-5 justify-center">
                 <a
                   href="https://school-task-rbzz.vercel.app/auth/login"
+                  rel="noopener noreferrer"
+                  target="_blank"
                   className="group flex gap-1 border rounded-full px-5 py-[13px] border-blue-300 transition-all duration-300 text-blue-400 hover:bg-blue-300  hover:text-white font-medium shadow-lg "
                 >
                   <span className="text-md font-Ovo">View Demo</span>
@@ -57,6 +59,8 @@ function Project() {
                 </a>
                 <a
                   href="https://github.com/MinhDuy0i0909090/SchoolTask"
+                  rel="noopener noreferrer"
+                  target="_blank"
                   className="group flex gap-1 border rounded-full px-5 py-[13px] border-blue-300 transition-all duration-300 text-blue-400 hover:bg-blue-300 hover:text-white font-medium shadow-lg "
                 >
                   <span className="text-md font-Ovo">Git Repository</span>
@@ -141,6 +145,8 @@ function Project() {
               <div className="flex flex-wrap gap-3 justify-center">
                 <a
                   href="https://e-commercev2.vercel.app/auth/login"
+                  rel="noopener noreferrer"
+                  target="_blank"
                   className="group flex gap-1 border rounded-full px-5 py-[13px] border-blue-300 transition-all duration-300 text-blue-400 hover:bg-blue-300  hover:text-white font-medium shadow-lg "
                 >
                   <span className="text-md font-Ovo">View Detail</span>
@@ -151,6 +157,8 @@ function Project() {
                 </a>
                 <a
                   href="https://github.com/MinhDuy0i0909090/E-commercev2"
+                  rel="noopener noreferrer"
+                  target="_blank"
                   className="group flex gap-1 border rounded-full px-5 py-[13px] border-blue-300 transition-all duration-300 text-blue-400 hover:bg-blue-300 hover:text-white font-medium shadow-lg "
                 >
                   <span className="text-md font-Ovo">Git Repository</span>
@@ -188,7 +196,9 @@ function Project() {
               </div>
               <div className="flex flex-wrap gap-5 justify-center">
                 <a
-                  href=""
+                  href="Traffic Sign Detection and Localization Using MobileNetV2"
+                  rel="noopener noreferrer"
+                  target="_blank"
                   className="group flex gap-1 border rounded-full px-5 py-[13px] border-blue-300 transition-all duration-300 text-blue-400 hover:bg-blue-300  hover:text-white font-medium shadow-lg "
                 >
                   <span className="text-md font-Ovo">Demo Video</span>
@@ -199,6 +209,8 @@ function Project() {
                 </a>
                 <a
                   href="https://github.com/MinhDuy0i0909090/TrafficSignClassification"
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="group flex gap-1 border rounded-full px-5 py-[13px] border-blue-300 transition-all duration-300 text-blue-400 hover:bg-blue-300 hover:text-white font-medium shadow-lg "
                 >
                   <span className="text-md font-Ovo">Git Repository</span>

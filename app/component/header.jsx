@@ -4,7 +4,6 @@ import { Github, Facebook, Linkedin, Download } from "lucide-react";
 import { assets } from "../../public/assets/assets"; // Đường dẫn đúng
 
 function Header() {
-  const resume = "http://localhost:3000/NguyenLeDuyMinh.pdf";
   return (
     <div className="w-full max-w-3xl text-center mx-auto h-screen flex flex-col justify-center items-center gap-5 mt-5">
       {/* Avatar */}
@@ -15,7 +14,7 @@ function Header() {
       />
       {/* Name & Job Title */}
       <h1 className="text-2xl  px-4 py-1 font-Ovo ">
-        Hi! I'm Nguyễn Lê Duy Minh
+        Hi! I'm Nguyen Le Duy Minh
       </h1>
       <h2 className="text-3xl sm:text-6xl lg:text-[60px]  font-semibold  font-Ovo">
         Frontend Developer
@@ -23,8 +22,8 @@ function Header() {
       <div className="flex gap-8 mt-4">
         <a
           href="https://github.com/MinhDuy0i0909090"
-          // target="_blank"
-          // rel="noopener noreferrer"
+          target="_blank"
+          rel="noopener noreferrer"
           className="bg-white text-gray-400 border-2 border-gray-300 w-10 h-10 shadow-md flex items-center justify-center rounded-full transition-all duration-300 hover:bg-gray-900 hover:text-white hover:border-gray-900 transform hover:scale-110"
         >
           <Github size={25} />
@@ -47,7 +46,7 @@ function Header() {
         </a>
       </div>{" "}
       <a
-        href="/NguyenLeDuyMinh.pdf"
+        href="/NguyenLeDuyMinh-SE.pdf"
         download
         target="_blank"
         rel="noopener noreferrer"
