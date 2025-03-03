@@ -196,7 +196,7 @@ function Project() {
               </div>
               <div className="flex flex-wrap gap-5 justify-center">
                 <a
-                  href="Traffic Sign Detection and Localization Using MobileNetV2"
+                  href="https://www.youtube.com/watch?v=FCVSZdNmYo4"
                   rel="noopener noreferrer"
                   target="_blank"
                   className="group flex gap-1 border rounded-full px-5 py-[13px] border-blue-300 transition-all duration-300 text-blue-400 hover:bg-blue-300  hover:text-white font-medium shadow-lg "
