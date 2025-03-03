@@ -24,28 +24,36 @@ function AboutMe() {
           </h3>
           <div className="mt-2 space-y-2">
             <p className="font-Ovo text-gray-600 leading-relaxed">
-              I’m Nguyen Le Duy Minh, a student at HCMC University of Foreign
-              Languages – Information Technology (HUFLIT), aspiring to become a
-              Bachelor of Data Science. Passionate about leveraging data-driven
-              insights to solve real-world problems, I continuously explore data
-              analysis, machine learning, and software development.
+              I’m Nguyen Le Duy Minh, a Bachelor of Information Technology
+              graduate from HCMC University of Foreign Languages and Information
+              Technology (HUFLIT) and a passionate Frontend Developer dedicated
+              to crafting high-performance, user-friendly web applications. With
+              expertise in React, ASP.NET, and modern technologies, I focus on
+              creating seamless digital experiences that blend aesthetics,
+              functionality, and efficiency.
             </p>
             <p className="mt-2 font-Ovo text-gray-600 leading-relaxed">
-              With a foundation in frontend development, I build engaging web
-              applications using React and ASP.NET, focusing on aesthetics and
-              user experience. I enjoy transforming ideas into intuitive digital
-              solutions.
+              I thrive on problem-solving, innovation, and continuous learning,
+              constantly pushing myself to improve and adapt in the
+              ever-evolving world of technology. My passion lies in transforming
+              ideas into intuitive digital solutions, ensuring that every
+              project I contribute to enhances user interaction and engagement.
+              I believe that success in tech comes from dedication, persistence,
+              and an unyielding drive to learn and grow.
             </p>
             <p className="mt-2 font-Ovo text-gray-600 leading-relaxed">
-              I believe growth in tech comes from hard work, persistence, and
-              continuous learning. My goal is to contribute in a dynamic
-              environment, gain hands-on experience, and create impactful
-              solutions through data and technology.
+              Beyond coding, I am deeply invested in collaboration and teamwork,
+              as I believe the best solutions emerge from diverse perspectives
+              and shared knowledge. My goal is to contribute to forward-thinking
+              teams, tackle complex challenges, and develop impactful software
+              that makes a real difference.
             </p>
             <p className="mt-2 font-Ovo text-gray-600 leading-relaxed">
               {" "}
-              I am excited about the journey ahead and look forward to working
-              with innovative teams to create solutions that make a difference.
+              I’m excited about the journey ahead and eager to take on new
+              opportunities, expand my expertise, and work alongside innovative
+              professionals to build cutting-edge technology that shapes the
+              future.
             </p>
           </div>
         </div>
