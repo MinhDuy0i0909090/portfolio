@@ -10,7 +10,7 @@ function Header() {
       <Image
         src={assets.avar}
         alt="Avatar"
-        className="rounded-full shadow-lg w-32 "
+        className="rounded-full shadow-xl w-36 h-auto "
       />
       {/* Name & Job Title */}
       <h1 className="text-2xl  px-4 py-1 font-Ovo ">
