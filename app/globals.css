@@ -6,3 +6,6 @@
 *{
   font-family: outfit;
 }
+html {
+  scroll-behavior: smooth;
+}

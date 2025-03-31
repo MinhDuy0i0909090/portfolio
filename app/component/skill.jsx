@@ -14,7 +14,6 @@ function Skill() {
   const skills = [
     {
       category: "Front-end",
-
       icon: <Globe size={30} color="#262b31" className="mt-4" />,
       iconDark: <Globe size={30} color="#ffffff" className="mt-3" />,
       items: [
@@ -23,8 +22,8 @@ function Skill() {
         "Tailwind",
         "Bootstrap",
         "Ant Design",
-
-        "ASP.NET MVC",
+        "Typescript",
+        "ASP.NET",
         "React Query",
       ],
     },
@@ -66,7 +65,7 @@ function Skill() {
         <div className="flex flex-col items-center justify-center ">
           <div className="flex items-center justify-center ">
             <Divider
-              style={{ borderColor: "#a5c0bf", width: "4rem" }}
+              style={{ borderColor: "#a5c0bf", width: "3rem" }}
               className="flex-grow"
             />
             <span className="mx-4 text-2xl  font-Ovo">Skill </span>

@@ -1,8 +1,8 @@
 import logo from "./NLDM.png";
-import logo_dark from "./NLDM_dark.png";
+
 import header_bg from "./header_bg.png";
 import avar from "./image3x4.png";
-import bg_layout from "./bg-web.png";
+
 import logoB24 from "./logoB24.jpg";
 import logoLC1 from "./logoLC1.jpg";
 import web1image from "./web1image.png";
@@ -23,10 +23,10 @@ import ecomerce5 from "./ecomerce5.png";
 
 export const assets = {
   logo,
-  logo_dark,
+
   header_bg,
   avar,
-  bg_layout,
+
   logoLC1,
   logoB24,
   web1image,
